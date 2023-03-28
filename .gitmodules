@@ -1,0 +1,6 @@
+[submodule "roles/computate.computate_loki_log_backup"]
+	path = roles/computate.computate_loki_log_backup
+	url = https://github.com/computate-org/computate_loki_log_backup.git
+[submodule "roles/computate.computate_loki_log_backup_query"]
+	path = roles/computate.computate_loki_log_backup_query
+	url = https://github.com/computate-org/computate_loki_log_backup_query.git
