@@ -1,0 +1,5 @@
+---
+- name: Run a Loki log backup
+  hosts: all
+  roles:
+    - computate.computate_loki_log_backup
